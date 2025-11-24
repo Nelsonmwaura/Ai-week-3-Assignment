@@ -19,3 +19,14 @@ Notebooks, and how spaCy improves NLP tasks.
      the MNIST handwritten digits dataset.
 
 ## 📁 Folder Structure
+AI ASSIGNMENT WEEK 3
+ ├── code/
+ ├── Ethics/
+ ├── Screenshots/
+ ├── cnn_mnist.ipynb
+ ├── scikit_classical_ml.ipynb
+ ├── spacy_ner.ipynb
+ ├── README.md
+ ├── requirements.txt
+ ├── Presentation/
+ └── Ai_Tools_Assignment_....pdf  
