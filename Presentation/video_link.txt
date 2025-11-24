@@ -1,0 +1,48 @@
+
+## 🎥 Project Presentation
+A short 2–3 minute video explaining the:
+- Purpose of each notebook  
+- Tools used  
+- What you learned  
+
+(Link in `/Presentation/video_link.txt`)
+
+## 📚 References
+See `References/references.txt`
+
+---
+
+# ✅ **2. VIDEO SCRIPT (Put inside `Presentation/video_script.txt`)**
+
+You can read this word-for-word in the  video:
+
+
+
+
+
+Hi, my name is Nelson Mwaura, and this is my Week 3 AI Tools Assignment.
+
+This project demonstrates three categories of AI development:
+spaCy for NLP, Scikit-learn for classical machine learning,
+and TensorFlow/Keras for deep learning.
+
+First, I used spaCy to perform Named Entity Recognition.
+This allowed me to automatically detect names, organizations,
+and locations in text — something impossible with regular Python strings.
+
+Next, I used Scikit-learn to build a classical machine learning model.
+I trained a simple classifier on sample data and evaluated its accuracy.
+This showed how easy and fast Scikit-learn is for traditional ML tasks.
+
+Finally, I used TensorFlow to build a Convolutional Neural Network
+trained on the MNIST dataset. This model can recognize handwritten
+digits with high accuracy and demonstrates the power of deep learning.
+
+Throughout the project, I also explored the differences between
+TensorFlow and PyTorch, and explained how Jupyter Notebooks help in
+experimentation and visualization.
+
+Overall, this assignment helped me understand the full workflow of
+modern AI development — from NLP, to classical ML, to deep learning.
+
+Thank you for watching.

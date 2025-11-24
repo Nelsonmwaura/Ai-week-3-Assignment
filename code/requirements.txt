@@ -1,0 +1,31 @@
+tensorflow
+scikit-learn
+matplotlib
+numpy
+pandas
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
+
+
+spaCy Documentation
+https://spacy.io/usage
+
+Scikit-learn Official Documentation
+https://scikit-learn.org/stable/
+
+TensorFlow Official Documentation
+https://www.tensorflow.org/
+
+Jupyter Notebook Documentation
+https://docs.jupyter.org/
+
+MNIST Dataset
+Yann LeCun, "The MNIST Database of Handwritten Digits"
+http://yann.lecun.com/exdb/mnist/
+
+Python Official Documentation
+https://docs.python.org/3/
+
+Google Colab / Kaggle Notebook Tutorials
+(for practical understanding)
